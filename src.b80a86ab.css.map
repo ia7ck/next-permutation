@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,aACE,iBACF,CAEA,aACE,eACF,CAEA,cACE,eACF,CAEA,cACE,cACF","file":"src.b80a86ab.css","sourceRoot":"..","sourcesContent":[".text-center {\n  text-align: center;\n}\n\nul.list-none {\n  list-style: none;\n}\n\n.min-width-15 {\n  min-width: 15rem;\n}\n\n.font-size-2x {\n  font-size: 200%;\n}\n"]}
