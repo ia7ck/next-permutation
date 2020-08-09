@@ -3,4 +3,4 @@ parcelRequire=function(e,r,t,n){var i,o="function"==typeof parcelRequire&&parcel
 },{}],"H99C":[function(require,module,exports) {
 "use strict";var e=require("./Main.elm");e.Elm.Main.init({node:document.querySelector("main")});
 },{"./Main.elm":"oS9F"}]},{},["H99C"], null)
-//# sourceMappingURL=/src.1c0f2ba8.js.map
+//# sourceMappingURL=src.1c0f2ba8.js.map
